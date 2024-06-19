@@ -13,5 +13,5 @@ Deploy Cronicle server with CI/CD on Elestio
 You can open Cronicle ADMIN UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    email: root
+    email: admin
     password: [ADMIN_PASSWORD]
